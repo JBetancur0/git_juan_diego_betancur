@@ -1,6 +1,7 @@
 package ejemplos_excepciones.cap11_libro_Java2.Finally;
-import cap10.Banco.*;
 import java.io.*;
+
+import ejemplos_excepciones.cap11_libro_Java2.Excepciones_lista_tlfs.Leer;
 /////////////////////////////////////////////////////////////////
 // Aplicación para trabajar con la clase CBanco y la jerarquía
 // de clases derivadas de CCuenta
